@@ -39,4 +39,3 @@ Keep vendor BSP and kernel sources as external baselines. Write project-owned dr
 ## Initial non-goals
 
 The first version does not target safety-certified industrial control or fully autonomous navigation.
-EOF
