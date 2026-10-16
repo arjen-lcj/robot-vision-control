@@ -1,0 +1,28 @@
+# Build output directories
+**/build/
+**/Debug/
+**/Release/
+**/Objects/
+**/Listings/
+
+# C/C++ build artifacts
+*.o
+*.a
+*.so
+*.elf
+*.map
+
+# Python
+__pycache__/
+.venv/
+.pytest_cache/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+*.swp
+*~
+.DS_Store
